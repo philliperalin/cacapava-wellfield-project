@@ -24,3 +24,5 @@ Implementation of a wellfield in Caçapava, SP, Brazil.
 
 ## References
 IRITANI, M. A., 1999. Modelação Matemática Tridimensional para a Proteção das Captações de Água Subterrânea [doi:10.11606/T.44.1999.tde-16082013-125326](https://www.teses.usp.br/teses/disponiveis/44/44133/tde-16082013-125326/pt-br.php). São Paulo : Instituto de Geociências, Universidade de São Paulo. Tese de Doutorado em Recursos Minerais e Hidrogeologia. [acesso 2022-06-17].
+
+MACE, R., 2000. Estimating transmissivity using specific-capacity data. Conference: Proceedings of the Ogallala Aquifer Symposium-2000
