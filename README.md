@@ -18,7 +18,7 @@ Implementation of a wellfield in Caçapava, SP, Brazil.
 
 [```./transmissivity/```](transmissivity/) folder contain the files to estimate the transmissivity from the available data:
 * [```T-estimation.py```](transmissivity/T-estimation.py) transmissivity estimates using [welltestpy](https://geostat-framework.readthedocs.io/projects/welltestpy/en/stable/) :construction: (Work in progress) :construction:
-* [```Sc-T.ipynb](transmissivity/Sc_T.ipynb) transmissivity estimates using empirical method that relates transmissivity and specific capacity
+* [```Sc-T.ipynb```](transmissivity/Sc_T.ipynb) transmissivity estimates using empirical method that relates transmissivity and specific capacity
 
 ---
 
